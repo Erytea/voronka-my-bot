@@ -1,0 +1,4 @@
+[tool.aerich]
+tortoise_orm = "src.fitness_navigator.database.core.TORTOISE_ORM"
+location = "./migrations"
+src_folder = "./src"
